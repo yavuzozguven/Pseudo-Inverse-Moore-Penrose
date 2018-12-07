@@ -1,0 +1,12 @@
+C:\Users\Yavuz\source\repos\yazLab\bin\Debug\yazLab.exe.config
+C:\Users\Yavuz\source\repos\yazLab\bin\Debug\yazLab.exe
+C:\Users\Yavuz\source\repos\yazLab\bin\Debug\yazLab.pdb
+C:\Users\Yavuz\source\repos\yazLab\obj\Debug\yazLab.csprojAssemblyReference.cache
+C:\Users\Yavuz\source\repos\yazLab\obj\Debug\yazLab.GirisEkrani.resources
+C:\Users\Yavuz\source\repos\yazLab\obj\Debug\yazLab.Properties.Resources.resources
+C:\Users\Yavuz\source\repos\yazLab\obj\Debug\yazLab.csproj.GenerateResource.cache
+C:\Users\Yavuz\source\repos\yazLab\obj\Debug\yazLab.csproj.CoreCompileInputs.cache
+C:\Users\Yavuz\source\repos\yazLab\obj\Debug\yazLab.exe
+C:\Users\Yavuz\source\repos\yazLab\obj\Debug\yazLab.pdb
+C:\Users\Yavuz\source\repos\yazLab\obj\Debug\yazLab.RandomMatris.resources
+C:\Users\Yavuz\source\repos\yazLab\obj\Debug\yazLab.ManuelMatris.resources
